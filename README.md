@@ -1,4 +1,4 @@
-# -30-Days-of-Intel-Edge-AI-Scholarship-Phase-1
+# 30 Days of Intel Edge AI Scholarship Phase - 1
 This repo is used to keep track of my learning for Udacity's  Intel Edge AI Scholarship Phase 1 for 30 Days
 
 ## Day 1 (19th. Jauary, 2020):
