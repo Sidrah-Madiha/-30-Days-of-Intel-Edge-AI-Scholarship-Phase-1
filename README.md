@@ -15,7 +15,7 @@ I encourage @aftab and @taimur zahid
 
 Here I am using this repo now to record extra reading that I will do in future for my Data Scientist ND.
 
-*On 14th. April, 2020:*
+### *On 14th. April, 2020:*
 I am currently on Part 2: "Softwre Engineering", Lesson: 2 "Software Engineering Practices Part 2"
 _Extra Notes:_
 This has a topic: Tesitng in Data Science, it has following side notes that will read in future:
