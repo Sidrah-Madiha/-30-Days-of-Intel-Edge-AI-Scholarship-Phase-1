@@ -21,3 +21,4 @@ _Extra Notes:_
 This has a topic: Tesitng in Data Science, it has following side notes that will read in future:
 - Four Ways Data Science Goes Wrong and How Test Driven Data Analysis Can Help: [Blog Post ](https://www.predictiveanalyticsworld.com/machinelearningtimes/four-ways-data-science-goes-wrong-and-how-test-driven-data-analysis-can-help/6947/)
 - Ned Batchelder: Getting Started Testing: [Slide Deck](https://speakerdeck.com/pycon2014/getting-started-testing-by-ned-batchelder?slide=12) and [Presentation Video](https://www.youtube.com/watch?v=FxSsnHeWQBY)
+- [Integration Testing](https://www.fullstackpython.com/integration-testing.html)
