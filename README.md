@@ -22,3 +22,9 @@ This has a topic: Tesitng in Data Science, it has following side notes that will
 - Four Ways Data Science Goes Wrong and How Test Driven Data Analysis Can Help: [Blog Post ](https://www.predictiveanalyticsworld.com/machinelearningtimes/four-ways-data-science-goes-wrong-and-how-test-driven-data-analysis-can-help/6947/)
 - Ned Batchelder: Getting Started Testing: [Slide Deck](https://speakerdeck.com/pycon2014/getting-started-testing-by-ned-batchelder?slide=12) and [Presentation Video](https://www.youtube.com/watch?v=FxSsnHeWQBY)
 - [Integration Testing](https://www.fullstackpython.com/integration-testing.html)
+- TDD in Data Science Links:
+1. [Data Science TDD](https://www.linkedin.com/pulse/data-science-test-driven-development-sam-savage/)
+2. [TDD for Data Science](http://engineering.pivotal.io/post/test-driven-development-for-data-science/)
+3. [TDD is Essential for Good Data Science Here's Why] (https://medium.com/@karijdempsey/test-driven-development-is-essential-for-good-data-science-heres-why-db7975a03a44)
+4. [Testing Your Code (general python TDD)](http://docs.python-guide.org/en/latest/writing/tests/)
+
