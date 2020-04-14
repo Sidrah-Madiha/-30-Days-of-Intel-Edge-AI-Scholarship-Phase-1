@@ -11,7 +11,7 @@ I encourage @aftab and @taimur zahid
 ## Day 1 (26th. Jan, 2020)
 - Read Computer Vision model types: https://medium.com/analytics-vidhya/image-classification-vs-object-detection-vs-image-segmentation-f36db85fe81
 
-===== Dropped my self out from the challenge as I want to participate in Outreachy, started preparing for it==================
+# ===== Dropped my self out from the challenge as I want to participate in Outreachy, started preparing for it=====
 
 Here I am using this repo now to record extra reading that I will do in future for my Data Scientist ND.
 
