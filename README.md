@@ -25,6 +25,6 @@ This has a topic: Tesitng in Data Science, it has following side notes that will
 - TDD in Data Science Links:
 1. [Data Science TDD](https://www.linkedin.com/pulse/data-science-test-driven-development-sam-savage/)
 2. [TDD for Data Science](http://engineering.pivotal.io/post/test-driven-development-for-data-science/)
-3. [TDD is Essential for Good Data Science Here's Why] (https://medium.com/@karijdempsey/test-driven-development-is-essential-for-good-data-science-heres-why-db7975a03a44)
+3. [TDD is Essential for Good Data Science Here's Why](https://medium.com/@karijdempsey/test-driven-development-is-essential-for-good-data-science-heres-why-db7975a03a44)
 4. [Testing Your Code (general python TDD)](http://docs.python-guide.org/en/latest/writing/tests/)
 
