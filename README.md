@@ -36,4 +36,5 @@ I am currently on Part 2: "Softwre Engineering", Lesson: 3 "Intro to OOP"
 _Extra Notes:_
 - [ Python Tutorial site](https://www.python-course.eu/python3_properties.php)
 - [Docstrings](https://sphinxcontrib-napoleon.readthedocs.io/en/latest/example_google.html)
+- [Intro to Statistics Udacity](https://www.udacity.com/course/intro-to-statistics--st101) and [Intro to Descriptive Statistics Course](https://www.udacity.com/course/intro-to-descriptive-statistics--ud827)
 
