@@ -31,3 +31,8 @@ This has a topic: Tesitng in Data Science, it has following side notes that will
 1. [Code Review](https://github.com/lyst/MakingLyst/tree/master/code-reviews)
 2. [Code Review Best Practices](https://www.kevinlondon.com/2015/05/05/code-review-best-practices.html)
 
+### *On 15th. April, 2020:*
+I am currently on Part 2: "Softwre Engineering", Lesson: 3 "Intro to OOP"
+_Extra Notes:_
+- [ Python Tutorial site](https://www.python-course.eu/python3_properties.php)
+
