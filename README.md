@@ -35,4 +35,5 @@ This has a topic: Tesitng in Data Science, it has following side notes that will
 I am currently on Part 2: "Softwre Engineering", Lesson: 3 "Intro to OOP"
 _Extra Notes:_
 - [ Python Tutorial site](https://www.python-course.eu/python3_properties.php)
+- [Docstrings](https://sphinxcontrib-napoleon.readthedocs.io/en/latest/example_google.html)
 
